@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      (博客发布测试)
-subtitle:   (副标题)
+title:      博客发布测试
+subtitle:   副标题
 date:       2020-10-21
-author:     (iwzx)
+author:     iwzx
 header-img: img/the-first.png
 catalog:   true
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 # 天目湖
 ## 白茶
-（正文内容）
+正文内容
