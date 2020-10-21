@@ -1,10 +1,10 @@
-Welcome to Globien Project！
+Welcome to This Project！
 
 
 ### 您可以 ——
 
-1. 为完善格罗比言提供建议。
-2. 为格罗比言的发展普及提供建议和帮助。
+1. 提供建议。
+2. 联系交流。
 
 
 ### 致谢
