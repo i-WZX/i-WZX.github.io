@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      学习要花多少时间？
-subtitle:   设计目标：半天入门，一月掌握，两年精通
-date:       2019-10-18
+title:      XXX？
+subtitle:   XXX
+date:       2020-10-21
 author:     XXX
 header-img: img/post-bg-alibaba.jpg
 catalog: true
