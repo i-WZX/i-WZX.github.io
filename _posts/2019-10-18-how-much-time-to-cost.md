@@ -7,7 +7,7 @@ author:     XXX
 header-img: img/michael-dziedzic-XTblNijO9IE-unsplash.jpg //img/post-bg-alibaba.jpg
 catalog: true
 tags:
-    - 设计点滴
+    - XXXX
 ---
 
 作为人XX设计目标是：简单易学易用，大多数人可以在很短时间内学会。
